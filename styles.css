@@ -1,3 +1,23 @@
 body {
   background-color: rebeccapurple;
+  background-color: #ededed;
+}
+
+.aPokemon {
+  width: 200px;
+  height: 400px;
+  background-color: aliceblue;
+}
+
+.aPokemon img {
+  width: 100%;
+  width: 200px;
+  height: 400px;
+}
+
+.aPokemon p {
+  background-color: #333;
+  color: white;
+  padding: 1em;
+  margin-top: 0;
 }
